@@ -1,0 +1,8 @@
+streamlit
+sentence-transformers
+requests
+beautifulsoup4
+transformers
+torch
+fpdf
+reportlab
